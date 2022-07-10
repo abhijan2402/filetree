@@ -1,0 +1,14 @@
+{
+  "resourceName": "image",
+  "policyUUID": "960cf2d9",
+  "bucketName": "reactimage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
